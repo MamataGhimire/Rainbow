@@ -1,0 +1,41 @@
+.big
+{
+    width:800px;
+    height:800px;
+    background-color:#ffb3f8  ;
+    border:60px solid #cba3f6;
+}
+
+
+
+
+.middle
+{
+   width:600px;
+   height:600px;
+    background-color:	#a3a4f6 ;  
+  border:50px solid 	#a3bef6; 
+ 
+}
+.small
+{
+    width:400px;
+    height:400px;
+    background-color:#FFF7B7; 
+    border:40px solid #ECA4CB; 
+}
+.mini
+{
+    width:200px;
+    height:200px;
+    background-color:#ffffff; 
+    
+}
+.similar
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%; 
+}
